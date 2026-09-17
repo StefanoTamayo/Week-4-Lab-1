@@ -2,7 +2,7 @@
 #CMP-131-80230
 #Week 4
 #Lab 2
-#Box Office Report
+#Interest Earned
 #9/16/26
 
 principal=float(input("What is the principal amount? "))
